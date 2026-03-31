@@ -87,8 +87,3 @@ The models test:
 ## Data Privacy
 This repository uses fully anonymized variable names and structure.
 No specific, experimental, or sensitive identifiers data is included.
-
-## Notes
-* The script assumes consistent column order across all sheets
-* Timepoints are automatically extracted from sheet names
-* The workflow is designed as a generic template and can be adapted to various datasets
